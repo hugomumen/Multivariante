@@ -2,8 +2,8 @@ continent_dict = {
     # Africa
     'Angola': 'Africa', 'Algeria': 'Africa', 'Benin': 'Africa', 'Botswana': 'Africa',
     'Burkina Faso': 'Africa', 'Burundi': 'Africa', 'Cape Verde': 'Africa', 'Cameroon': 'Africa',
-    'Chad': 'Africa', 'Comoros': 'Africa', 'Republic of the Congo': 'Africa',
-    'Democratic Republic of the Congo': 'Africa', 'Ivory Coast': 'Africa', 'Egypt': 'Africa',
+    'Chad': 'Africa', 'Comoros': 'Africa', 'Congo': 'Africa',
+    'Democratic Republic of Congo': 'Africa', "Cote d'Ivoire": 'Africa', 'Egypt': 'Africa',
     'Eritrea': 'Africa', 'Ethiopia': 'Africa', 'Gabon': 'Africa', 'Gambia': 'Africa', 'Ghana': 'Africa',
     'Guinea': 'Africa', 'Equatorial Guinea': 'Africa', 'Guinea-Bissau': 'Africa',
     'Kenya': 'Africa', 'Lesotho': 'Africa', 'Liberia': 'Africa', 'Libya': 'Africa', 'Madagascar': 'Africa',
@@ -13,7 +13,7 @@ continent_dict = {
     'Seychelles': 'Africa', 'Sierra Leone': 'Africa', 'Somalia': 'Africa', 'South Africa': 'Africa',
     'Sudan': 'Africa', 'South Sudan': 'Africa', 'Eswatini': 'Africa', 'Tanzania': 'Africa',
     'Togo': 'Africa', 'Tunisia': 'Africa', 'Uganda': 'Africa', 'Djibouti': 'Africa', 'Zambia': 'Africa',
-    'Zimbabwe': 'Africa',
+    'Zimbabwe': 'Africa', 'Sao Tome and Principe': 'Africa',
 
     # America
     'Bermuda': 'America', 'Canada': 'America', 'United States': 'America',
@@ -39,6 +39,7 @@ continent_dict = {
     'Nepal': 'Asia', 'Oman': 'Asia', 'Pakistan': 'Asia', 'Palestine': 'Asia', 'Russia': 'Asia',
     'Singapore': 'Asia', 'Syria': 'Asia', 'Sri Lanka': 'Asia', 'Thailand': 'Asia', 'Tajikistan': 'Asia',
     'Turkmenistan': 'Asia', 'Turkey': 'Asia', 'Uzbekistan': 'Asia', 'Vietnam': 'Asia', 'Yemen': 'Asia',
+    'Taiwan': 'Asia','Timor': 'Asia',
 
     # Europe
     'Albania': 'Europe', 'Germany': 'Europe', 'Andorra': 'Europe', 'Austria': 'Europe',
@@ -49,12 +50,13 @@ continent_dict = {
     'Italy': 'Europe', 'Kosovo': 'Europe', 'Latvia': 'Europe', 'Liechtenstein': 'Europe',
     'Lithuania': 'Europe', 'Luxembourg': 'Europe', 'North Macedonia': 'Europe', 'Malta': 'Europe',
     'Moldova': 'Europe', 'Norway': 'Europe', 'Netherlands': 'Europe', 'Poland': 'Europe',
-    'Portugal': 'Europe', 'United Kingdom': 'Europe', 'Czech Republic': 'Europe', 'Romania': 'Europe',
+    'Portugal': 'Europe', 'United Kingdom': 'Europe', 'Czechia': 'Europe', 'Romania': 'Europe',
     'San Marino': 'Europe', 'Serbia': 'Europe', 'Sweden': 'Europe', 'Switzerland': 'Europe', 'Ukraine': 'Europe',
+    'Montenegro': 'Europe',
 
     # Oceania
     'Australia': 'Oceania', 'Fiji': 'Oceania', 'Cook Islands': 'Oceania', 'Marshall Islands': 'Oceania',
-    'Solomon Islands': 'Oceania', 'Micronesia': 'Oceania', 'Nauru': 'Oceania', 'New Zealand': 'Oceania',
+    'Solomon Islands': 'Oceania', 'Micronesia (country)': 'Oceania', 'Nauru': 'Oceania', 'New Zealand': 'Oceania',
     'Palau': 'Oceania', 'Papua New Guinea': 'Oceania', 'Samoa': 'Oceania', 'Tonga': 'Oceania',
-    'Tuvalu': 'Oceania', 'Vanuatu': 'Oceania'
+    'Tuvalu': 'Oceania', 'Vanuatu': 'Oceania', 'Kiribati': 'Oceania'
 }
